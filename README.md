@@ -1,6 +1,6 @@
 # Hi, I'm Yashwardhan Chaudhari 👋
 
-First-year Computer Science student at **MIT-ADT University** in the **Kalvium** program, building web applications with JavaScript, React.js, Node.js, and Express.js.
+Second-year Computer Science student at **MIT-ADT University** in the **Kalvium** program, building web applications with JavaScript, React.js, Node.js, and Express.js.
 
 I'm looking for a **software engineering internship** where I can contribute to real-world applications while strengthening my skills in **testing, backend development, and AI-powered software**.
 
