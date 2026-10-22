@@ -78,14 +78,6 @@ A web application for creating, managing, and displaying advertisements, giving 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwardhan-chaudhari&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwardhan-chaudhari&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ## 📫 Connect with me
 
